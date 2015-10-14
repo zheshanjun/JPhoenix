@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Aug 07 14:36:16 CST 2015
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=PhoenixInJava_fat.jar
+manifest.mergeall=true
+manifest.mainclass=ann.BP
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
